@@ -48,7 +48,6 @@
     </section>
   </div>
 </template>
-
 <style scoped>
 .sobre {
   text-align: center;
