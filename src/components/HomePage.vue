@@ -13,7 +13,6 @@
     </div>
   </div>
 </template>
-
 <style scoped>
 .banner {
   max-width: 300px;
