@@ -10,7 +10,6 @@
         <li style="font-weight: bold">Discord: boronty8.0_63502</li>
       </ul>
       <p>Além disso, da uma checada no meu trabalho! :D</p>
-      <p>Redes:</p>
       <ul>
         <li><a href="https://x.com/_b_code" target="_blank">Twitter (X)</a></li>
         <li><a href="https://www.tiktok.com/@_b_code" target="_blank">TikTok</a></li>
